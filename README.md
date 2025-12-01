@@ -67,8 +67,8 @@ Saya memiliki *passion* dalam mengolah data mentah menjadi *insight* bisnis yang
 ### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zepunnn&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="zepunnn's GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepunnn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=@zepunnn&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="zepunnn's GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=@zepunnn&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="180"/>
 </div>
 
 ---
@@ -84,5 +84,5 @@ Saya memiliki *passion* dalam mengolah data mentah menjadi *insight* bisnis yang
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=zepunnn&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=@zepunnn&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 </div>
