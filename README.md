@@ -64,20 +64,6 @@ Saya memiliki *passion* dalam mengolah data mentah menjadi *insight* bisnis yang
 
 ---
 
-### 📊 GitHub Analytics (Retro Style)
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zepunnn&theme=tokyonight&no-frame=true&column=7&margin-w=15&margin-h=15" width="100%" alt="Trophies" />
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=zepunnn&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zepunnn&layout=compact&theme=tokyonight&hide_border=true" height="170" />
-</div>
-
----
-
 ### 📂 Featured Projects
 
 | Project Name | Description | Tech |
