@@ -32,13 +32,15 @@
 
 ### 👨‍💻 About Me
 
-Halo! Saya Fakhri, seorang penggiat teknologi yang sedang menempuh perjalanan transisi dari **Web Development** menuju dunia **Data Science & Analytics**. 
+Halo! Saya Fakhri, seorang teknologi enthusiast yang sedang menapaki perjalanan dari **Web Development** menuju **Data Science & Analytics**.
 
-Saya memiliki *passion* dalam mengolah data mentah menjadi *insight* bisnis yang berharga, sembari tetap memelihara kemampuan saya dalam membangun antarmuka web yang fungsional.
+Saya senang mengubah data mentah menjadi wawasan yang bermakna, sekaligus tetap mengembangkan kemampuan saya dalam membangun antarmuka web yang bersih dan fungsional.
 
-* 🔭 **Current Focus:** End-to-End Data Analysis (Clustering & Classification).
-* 🌱 **Learning:** Deep Learning architectures & Advanced SQL.
-* 💼 **Open for:** Data Analyst & Data Scientist opportunities.
+✨ **Saat ini fokus pada:**  
+- End-to-End Data Analysis (Clustering, Classification, Evaluations)  
+- Eksplorasi model Deep Learning secara bertahap  
+
+🎯 **Goal jangka dekat:** Berkontribusi sebagai **Data Analyst / Data Scientist** dalam proyek real-world.
 
 ---
 
@@ -59,6 +61,7 @@ Saya memiliki *passion* dalam mengolah data mentah menjadi *insight* bisnis yang
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 </div>
 
@@ -69,8 +72,8 @@ Saya memiliki *passion* dalam mengolah data mentah menjadi *insight* bisnis yang
 | Project Name | Description | Tech |
 | :--- | :--- | :--- |
 | **🔍 Customer Analytics System** | Segmentasi pelanggan (K-Means) & prediksi klasifikasi (Random Forest) untuk strategi bisnis. | Python, Scikit-Learn |
-| **🌐 Personal Web Portfolio** | Website responsif untuk menampilkan profil profesional. | HTML, CSS, JS |
-| **📈 Sales Dashboard** | Analisis Data Eksploratif (EDA) untuk data retail. | Pandas, Matplotlib |
+| **🌐 Personal Web Portfolio** | Website responsif dan modern untuk profil profesional. | HTML, CSS, JS, TypeScript |
+| **📈 Retail Sales Dashboard** | EDA & visualisasi data untuk memahami tren dan performa penjualan. | Pandas, Matplotlib |
 
 ---
 
