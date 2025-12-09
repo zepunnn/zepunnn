@@ -32,15 +32,14 @@
 
 ### 👨‍💻 About Me
 
-Halo! Saya Fakhri, seorang teknologi enthusiast yang sedang menapaki perjalanan dari **Web Development** menuju **Data Science & Analytics**.
+Halo! Saya **Fakhri**, seorang teknologi enthusiast yang sedang membangun jalur karier sebagai **Data Scientist** yang solid dengan fondasi **Web Development**.
 
-Saya senang mengubah data mentah menjadi wawasan yang bermakna, sekaligus tetap mengembangkan kemampuan saya dalam membangun antarmuka web yang bersih dan fungsional.
+Saya tertarik pada:
+- Membuat ML pipeline end-to-end  
+- Mengolah data menjadi insight nyata  
+- Membangun aplikasi web yang fungsional & scalable  
 
-✨ **Saat ini fokus pada:**  
-- End-to-End Data Analysis (Clustering, Classification, Evaluations)  
-- Eksplorasi model Deep Learning secara bertahap  
-
-🎯 **Goal jangka dekat:** Berkontribusi sebagai **Data Analyst / Data Scientist** dalam proyek real-world.
+🎯 **Goal saya:** Berkontribusi dalam proyek nyata sebagai **Data Scientist / ML Engineer**, khususnya dalam analisis data, prediksi, dan integrasi ML dengan sistem web.
 
 ---
 
@@ -67,13 +66,66 @@ Saya senang mengubah data mentah menjadi wawasan yang bermakna, sekaligus tetap 
 
 ---
 
-### 📂 Featured Projects
+## 🌟 Featured Projects  
+Dua proyek utama yang merepresentasikan kemampuan saya dalam **Machine Learning**, **Data Engineering**, dan **Web Development**.
 
-| Project Name | Description | Tech |
-| :--- | :--- | :--- |
-| **🔍 Customer Analytics System** | Segmentasi pelanggan (K-Means) & prediksi klasifikasi (Random Forest) untuk strategi bisnis. | Python, Scikit-Learn |
-| **🌐 Personal Web Portfolio** | Website responsif dan modern untuk profil profesional. | HTML, CSS, JS, TypeScript |
-| **📈 Retail Sales Dashboard** | EDA & visualisasi data untuk memahami tren dan performa penjualan. | Pandas, Matplotlib |
+---
+
+## 🌦️ **Beather — AI Weather Prediction System**  
+> **Machine Learning + FastAPI + TypeScript + MySQL**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/BEATHER-Weather%20Prediction%20AI-6C63FF?style=for-the-badge&logo=cloud&logoColor=white" />
+</div>
+
+Sistem prediksi cuaca *hyper-local* untuk Kabupaten Batang, Jawa Tengah.  
+Dibangun dengan arsitektur lengkap:
+
+- 🔥 **FastAPI Backend**  
+- 🌐 **TypeScript Frontend**  
+- 🤖 **ML Workspace terpisah (training → model → inference)**  
+- 🗄️ Database **MySQL** untuk weather logs  
+- 📡 Data diambil dari **BMKG Open Data**  
+
+Beather merupakan **flagship project** saya yang menunjukkan kemampuan:
+- Machine Learning end-to-end  
+- Data engineering  
+- API development  
+- Web integration  
+
+🛠 Status: **On Progress — Major Development**
+
+---
+
+## 📊 **BMLP — Customer Behavior Analytics & Prediction System**  
+> **K-Means Clustering + Random Forest Classification**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/BMLP-Customer%20Analytics%20%26%20ML-orange?style=for-the-badge&logo=python&logoColor=white" />
+</div>
+
+Proyek *end-to-end machine learning* yang menganalisis perilaku transaksi pelanggan dan membuat model prediksi otomatis.
+
+✨ **Isi Proyek:**
+- **K-Means Clustering (k=3)** → Segmentasi pelanggan  
+- **PCA** untuk reduksi dimensi  
+- **Random Forest Classification** untuk prediksi kategori pelanggan  
+- Visualisasi lengkap (Matplotlib, Seaborn, Yellowbrick)  
+- Insight persona seperti:
+  - Student Saver  
+  - Student High Spender  
+  - Professional Engineer  
+
+Status: **Completed ✔️**
+
+---
+
+### 📌 Quick Project Table
+
+| Project | Status | Stack |
+|--------|--------|--------|
+| **🌦 Beather – Weather AI System** | On Progress | Python, FastAPI, TS, MySQL, ML |
+| **📊 BMLP – Customer ML Pipeline** | Completed | Python, Pandas, Sklearn, PCA |
 
 ---
 
