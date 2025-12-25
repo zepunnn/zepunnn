@@ -32,7 +32,7 @@
 
 ### 👨‍💻 About Me
 
-Halo! Saya **Fakhri**, seorang teknologi enthusiast yang sedang membangun jalur karier sebagai **Data Scientist** yang solid dengan fondasi **Web Development**.
+Halo! Saya **Fakhri**, seorang teknologi enthusiast yang sedang membangun jalur karier sebagai **Data Scientist** atau **Data Aanalyst** yang solid dengan fondasi **Web Development**.
 
 Saya tertarik pada:
 - Membuat ML pipeline end-to-end  
