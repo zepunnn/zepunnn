@@ -124,6 +124,8 @@ Status: **Completed ✔️**
 
 | Project | Status | Stack |
 |--------|--------|--------|
+| **Team 7 Compression** | On Progress | Python |
+| **Diament - Diabetes Prediction System** | On Progress | Python, Jupyter, HTML, CSS, JS |
 | **🌦 Beather – Weather AI System** | On Progress | Python, FastAPI, TS, MySQL, ML |
 | **📊 BMLP – Customer ML Pipeline** | Completed | Python, Pandas, Sklearn, PCA |
 
