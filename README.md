@@ -32,7 +32,7 @@
 
 ### 👨‍💻 About Me
 
-Halo! Saya **Fakhri**, seorang teknologi enthusiast yang sedang membangun jalur karier sebagai **Data Scientist** atau **Data Aanalyst** yang solid dengan fondasi **Web Development**.
+Halo! Saya **Fakhri**, seorang teknologi enthusiast yang sedang membangun jalur karier sebagai **Data Scientist** atau **Data Analyst** yang solid dengan fondasi **Web Development**.
 
 Saya tertarik pada:
 - Membuat ML pipeline end-to-end  
@@ -52,6 +52,7 @@ Saya tertarik pada:
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
 </div>
 
@@ -61,13 +62,21 @@ Saya tertarik pada:
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+</div>
+
+#### 🔌 Embedded & IoT
+<div align="left">
+  <img src="https://img.shields.io/badge/ESP32%2FESP8266-E7352C?style=for-the-badge&logo=espressif&logoColor=white" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+  <img src="https://img.shields.io/badge/Blynk-24A9E1?style=for-the-badge&logo=blynk&logoColor=white" />
 </div>
 
 ---
 
 ## 🌟 Featured Projects  
-Dua proyek utama yang merepresentasikan kemampuan saya dalam **Machine Learning**, **Data Engineering**, dan **Web Development**.
+Beberapa proyek utama yang merepresentasikan kemampuan saya dalam **Machine Learning**, **Deep Learning**, **Data Engineering**, dan **Web Development**.
 
 ---
 
@@ -78,8 +87,7 @@ Dua proyek utama yang merepresentasikan kemampuan saya dalam **Machine Learning*
   <img src="https://img.shields.io/badge/BEATHER-Weather%20Prediction%20AI-6C63FF?style=for-the-badge&logo=cloud&logoColor=white" />
 </div>
 
-Sistem prediksi cuaca *hyper-local* untuk Kabupaten Batang, Jawa Tengah.  
-Dibangun dengan arsitektur lengkap:
+Sistem prediksi cuaca *hyper-local* untuk deteksi dini kondisi atmosfer di wilayah spesifik, dibangun dengan arsitektur lengkap:
 
 - 🔥 **FastAPI Backend**  
 - 🌐 **TypeScript Frontend**  
@@ -87,13 +95,31 @@ Dibangun dengan arsitektur lengkap:
 - 🗄️ Database **MySQL** untuk weather logs  
 - 📡 Data diambil dari **BMKG Open Data**  
 
-Beather merupakan **flagship project** saya yang menunjukkan kemampuan:
-- Machine Learning end-to-end  
-- Data engineering  
-- API development  
-- Web integration  
+Beather merupakan **flagship project** saya yang menunjukkan kemampuan machine learning end-to-end, data engineering, API development, dan web integration.
 
 🛠 Status: **On Progress — Major Development**
+🔗 [Repository](https://github.com/zepunnn/Beather-WeatherPrediction)
+
+---
+
+## 🧴 **SkinCare Analyzer — Deep Learning Skin Analysis App**
+> **TensorFlow/Keras + Flask + Vercel**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/SKINCARE%20ANALYZER-Deep%20Learning%20App-FF6F91?style=for-the-badge&logo=tensorflow&logoColor=white" />
+</div>
+
+Aplikasi web berbasis Deep Learning untuk menganalisis kondisi kulit wajah dari citra digital, dikembangkan sebagai bagian dari **Magang IMV di Universitas Telkom**.
+
+✨ **Isi Proyek:**
+- **Dual Model Inference** — deteksi tingkat keparahan jerawat (**ResNet50**) & tipe kulit/oiliness (**MobileNetV2**) secara paralel
+- Model di-deploy dalam format **TFLite**
+- Backend **Flask** + Frontend **HTML/CSS/JS + Tailwind**
+- Rekomendasi perawatan personal berdasarkan kombinasi hasil prediksi
+- Live demo ter-deploy di **Vercel**
+
+Status: **Completed ✔️ — Deployed**
+🔗 [Repository](https://github.com/zepunnn/skincare-analyzer)
 
 ---
 
@@ -111,23 +137,21 @@ Proyek *end-to-end machine learning* yang menganalisis perilaku transaksi pelang
 - **PCA** untuk reduksi dimensi  
 - **Random Forest Classification** untuk prediksi kategori pelanggan  
 - Visualisasi lengkap (Matplotlib, Seaborn, Yellowbrick)  
-- Insight persona seperti:
-  - Student Saver  
-  - Student High Spender  
-  - Professional Engineer  
+- Insight persona seperti Student Saver, Student High Spender, Professional Engineer
 
 Status: **Completed ✔️**
+🔗 [Repository](https://github.com/zepunnn/BMLP-Project)
 
 ---
 
-### 📌 Quick Project Table
+### 📌 Other Projects
 
-| Project | Status | Stack |
-|--------|--------|--------|
-| **Team 7 Compression** | On Progress | Python |
-| **Diament - Diabetes Prediction System** | On Progress | Python, Jupyter, HTML, CSS, JS |
-| **🌦 Beather – Weather AI System** | On Progress | Python, FastAPI, TS, MySQL, ML |
-| **📊 BMLP – Customer ML Pipeline** | Completed | Python, Pandas, Sklearn, PCA |
+| Project | Deskripsi Singkat | Status | Stack |
+|--------|--------|--------|--------|
+| **[Team 7 Compression](https://github.com/zepunnn/Team-7-Compression)** | Implementasi algoritma lossless data compression (entropy-based & dictionary-based) untuk dokumen teks, dievaluasi dari sisi rasio kompresi, entropi, dan waktu encoding-decoding | Completed ✔️ | Python |
+| **[Smart Entrance Monitoring System](https://github.com/zepunnn/Smart-Entrance-Monitoring-System)** | Sistem IoT smart-greeting berbasis ESP8266 & sensor ultrasonik untuk deteksi pengunjung, dengan monitoring real-time via Blynk | Completed ✔️ | ESP8266, Arduino, Blynk |
+| **[Spotify Track Clustering (Tugas Individu IMV)](https://github.com/zepunnn/tugas-individu-imvlab)** | Clustering lagu Spotify menggunakan DBSCAN untuk mengelompokkan karakteristik audio track | Completed ✔️ | Python, Jupyter, Scikit-Learn |
+| **[Tubes Python](https://github.com/zepunnn/tubes-python)** | Proyek pengembangan tugas besar Python dengan integrasi model machine learning untuk memproses dataset | Completed ✔️ | Python |
 
 ---
 
